@@ -1,6 +1,6 @@
 # Wifi-Password-Grabber-Nethunter
 
-A simple cmd script to get all the saved wifi password from a computer and send the output to your phone via USB.
+A simple ducky script to get all the saved wifi password from a computer and send the output to your phone via USB.
 
 # Usage
 
