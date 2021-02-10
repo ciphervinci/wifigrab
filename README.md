@@ -2,6 +2,8 @@
 
 A simple ducky script to get all the saved wifi password from a computer and send the output to your phone via USB.
 
+<img src="https://i.ibb.co/D58TgYx/Screenshot-76.png" alt="Ducky Screenshot" width="305" hieght="540" />
+
 # Usage
 
 - Select "hid" in "USB function" under "USB arsenal" in Nethunter app. Select "Set USB Function".  
