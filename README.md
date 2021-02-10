@@ -1,6 +1,6 @@
 # Wifi-Password-Grabber-Nethunter
 
-A simple ducky script to get saved wifi password from a computer and send the output to your phone via USB. The password file will be transferred to the phone memory by using adb.
+A simple ducky script to get saved wifi password from a computer and send the output to your phone via USB.  
 
 <img src="https://i.ibb.co/D58TgYx/Screenshot-76.png" alt="Ducky Screenshot" width="305" hieght="540" />
 
